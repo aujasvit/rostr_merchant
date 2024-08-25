@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:nostr/nostr.dart';
+import 'package:rostr_merchant/main.dart';
 import 'package:rostr_merchant/models/relay.dart';
 import 'package:rostr_merchant/models/relay_pool.dart';
 import 'package:rostr_merchant/services/crud/relays_service.dart';
